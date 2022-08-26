@@ -1,6 +1,6 @@
 ## **Ola!** :robot::rocket:
 
-### **Me chamo Bernardo Bueno Barbosa e neste repositório é onde ficarão os links dos projetos relacionados ao Santander Bootcamp Mobile Developer.**
+### **Me chamo Bernardo Bueno Barbosa e neste repositório é onde estão os links dos projetos relacionados ao Santander Bootcamp Mobile Developer.**
 
 - [`Kotlin Collections`](https://github.com/bernardobb93/KotlinCollections)
 
