@@ -17,3 +17,7 @@
 - [`Cartao Visita`](https://github.com/bernardobb93/Cartao-Visita)
 
 - [`App Github Repo`](https://github.com/bernardobb93/App-Github-Repo)
+
+[`Certificado`](https://github.com/bernardobb93/Bootcamp-Santander/files/11227481/7DE60C32.pdf)
+
+<img src="https://user-images.githubusercontent.com/50460593/231906358-7f568fee-01fb-4709-9fee-9b7803bd1663.jpg" widht="100px">
